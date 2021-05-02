@@ -1,0 +1,27 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+hr {
+  margin-bottom: 1rem;
+}
+
+ul {
+  padding: 0;
+  text-align: center;
+}
+
+.box {
+  border: 1px black solid;
+  max-width: 70%;
+  padding: 0.5rem 2rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.box h2,
+p {
+  margin: 0.5rem;
+}
